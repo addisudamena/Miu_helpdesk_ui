@@ -11,10 +11,10 @@ public class Login extends Application {
 	public void start(Stage primaryStage) {
 	
 
-			primaryStage.setScene(UIColection.loginScene(primaryStage));
-			primaryStage.setResizable(false);
-		    primaryStage.setTitle("MIU help desk");
-		    primaryStage.show();
+		primaryStage.setScene(UIColection.loginScene(primaryStage));
+		primaryStage.setResizable(false);
+		 primaryStage.setTitle("Mahirishi International University Help Desk");
+		primaryStage.show();
 	
 			
 		
