@@ -90,7 +90,7 @@ ALTER TABLE `user`
 
 --
 -- AUTO_INCREMENT for dumped tables
---
+-- Tables to be in the main board for tomorrow
 
 --
 -- AUTO_INCREMENT for table `address`
